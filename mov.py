@@ -15,4 +15,5 @@ toy_story=Movie("bakena khaifeen","afraid","https://www.google.com.eg/imgres?img
 print(toy_story.storyline)
 toy_story.show()
 toy_story.imageshow()
+print ("hello")
 
